@@ -1,0 +1,26 @@
+body{
+    font-family: 'Noto Sans Lao Looped', sans-serif;
+    background-color: rgb(150, 166, 166);
+}
+table,thead,tbody{
+    width: 100%;
+    text-align: center;
+}
+.container{
+    max-width: 1040px;
+    margin: 0 auto;
+}
+.aa{
+    display: flex;
+    margin: 30px 0;
+    justify-content: center;
+}
+.vb{
+    display: flex;
+    padding: 20px;
+    justify-content: center;
+}
+.button{
+
+     background-color: blue;
+}

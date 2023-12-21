@@ -1,0 +1,23 @@
+
+body{
+  font-family: 'IM Fell English', serif;
+  background-color: rgb(105, 102, 98);
+}
+.rr,.aa,.bb,.cc {
+  display: flex;
+  padding:5px;
+ justify-content: center;
+ width: 100%;
+}
+.oo{
+  margin: 0 55px;
+}
+.t{
+  margin: 5px 3rem;
+}
+.l{
+  margin: 0 3rem;
+}
+.v{
+  margin: 20px 3rem;
+}

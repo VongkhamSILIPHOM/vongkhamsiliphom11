@@ -1,0 +1,14 @@
+.a{
+    font-family: 'Noto Sans Lao Looped', sans-serif;
+    background-color: rgb(196, 234, 255);
+}
+.container{
+    max-width: 1200px;
+    margin: 15rem auto;
+}
+.a{
+    display: flex;
+}
+.b{
+    padding: 20px;
+}
